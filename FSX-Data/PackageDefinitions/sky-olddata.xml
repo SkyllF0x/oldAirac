@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>olddata</Title>
+		<Manufacturer/>
+		<Creator>sky</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="0000">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0000\</AssetDir>
+			<OutputDir>Scenery\olddata\0000\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0001">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0001\</AssetDir>
+			<OutputDir>Scenery\olddata\0001\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0002">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0002\</AssetDir>
+			<OutputDir>Scenery\olddata\0002\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0003">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0003\</AssetDir>
+			<OutputDir>Scenery\olddata\0003\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0004">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0004\</AssetDir>
+			<OutputDir>Scenery\olddata\0004\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0005">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0005\</AssetDir>
+			<OutputDir>Scenery\olddata\0005\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0100">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0100\</AssetDir>
+			<OutputDir>Scenery\olddata\0100\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0101">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0101\</AssetDir>
+			<OutputDir>Scenery\olddata\0101\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0102">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0102\</AssetDir>
+			<OutputDir>Scenery\olddata\0102\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0104">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0104\</AssetDir>
+			<OutputDir>Scenery\olddata\0104\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0105">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0105\</AssetDir>
+			<OutputDir>Scenery\olddata\0105\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0200">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0200\</AssetDir>
+			<OutputDir>Scenery\olddata\0200\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0201">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0201\</AssetDir>
+			<OutputDir>Scenery\olddata\0201\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0202">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0202\</AssetDir>
+			<OutputDir>Scenery\olddata\0202\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0203">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0203\</AssetDir>
+			<OutputDir>Scenery\olddata\0203\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0204">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0204\</AssetDir>
+			<OutputDir>Scenery\olddata\0204\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0205">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0205\</AssetDir>
+			<OutputDir>Scenery\olddata\0205\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0300">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0300\</AssetDir>
+			<OutputDir>Scenery\olddata\0300\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0301">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0301\</AssetDir>
+			<OutputDir>Scenery\olddata\0301\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0302">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0302\</AssetDir>
+			<OutputDir>Scenery\olddata\0302\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0303">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0303\</AssetDir>
+			<OutputDir>Scenery\olddata\0303\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0304">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0304\</AssetDir>
+			<OutputDir>Scenery\olddata\0304\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0305">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0305\</AssetDir>
+			<OutputDir>Scenery\olddata\0305\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0306">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0306\</AssetDir>
+			<OutputDir>Scenery\olddata\0306\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0400">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0400\</AssetDir>
+			<OutputDir>Scenery\olddata\0400\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0401">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0401\</AssetDir>
+			<OutputDir>Scenery\olddata\0401\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0402">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0402\</AssetDir>
+			<OutputDir>Scenery\olddata\0402\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0403">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0403\</AssetDir>
+			<OutputDir>Scenery\olddata\0403\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0404">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0404\</AssetDir>
+			<OutputDir>Scenery\olddata\0404\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0405">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0405\</AssetDir>
+			<OutputDir>Scenery\olddata\0405\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0406">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0406\</AssetDir>
+			<OutputDir>Scenery\olddata\0406\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0500">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0500\</AssetDir>
+			<OutputDir>Scenery\olddata\0500\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0501">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0501\</AssetDir>
+			<OutputDir>Scenery\olddata\0501\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0502">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0502\</AssetDir>
+			<OutputDir>Scenery\olddata\0502\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0503">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0503\</AssetDir>
+			<OutputDir>Scenery\olddata\0503\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0504">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0504\</AssetDir>
+			<OutputDir>Scenery\olddata\0504\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0600">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0600\</AssetDir>
+			<OutputDir>Scenery\olddata\0600\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0601">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0601\</AssetDir>
+			<OutputDir>Scenery\olddata\0601\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0602">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0602\</AssetDir>
+			<OutputDir>Scenery\olddata\0602\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0603">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0603\</AssetDir>
+			<OutputDir>Scenery\olddata\0603\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0604">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0604\</AssetDir>
+			<OutputDir>Scenery\olddata\0604\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0605">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0605\</AssetDir>
+			<OutputDir>Scenery\olddata\0605\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0607">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0607\</AssetDir>
+			<OutputDir>Scenery\olddata\0607\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0700">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0700\</AssetDir>
+			<OutputDir>Scenery\olddata\0700\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0701">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0701\</AssetDir>
+			<OutputDir>Scenery\olddata\0701\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0702">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0702\</AssetDir>
+			<OutputDir>Scenery\olddata\0702\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0703">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0703\</AssetDir>
+			<OutputDir>Scenery\olddata\0703\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0704">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0704\</AssetDir>
+			<OutputDir>Scenery\olddata\0704\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0705">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0705\</AssetDir>
+			<OutputDir>Scenery\olddata\0705\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0800">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0800\</AssetDir>
+			<OutputDir>Scenery\olddata\0800\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0801">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0801\</AssetDir>
+			<OutputDir>Scenery\olddata\0801\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0802">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0802\</AssetDir>
+			<OutputDir>Scenery\olddata\0802\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0803">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0803\</AssetDir>
+			<OutputDir>Scenery\olddata\0803\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0804">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0804\</AssetDir>
+			<OutputDir>Scenery\olddata\0804\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0900">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0900\</AssetDir>
+			<OutputDir>Scenery\olddata\0900\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0901">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0901\</AssetDir>
+			<OutputDir>Scenery\olddata\0901\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0902">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0902\</AssetDir>
+			<OutputDir>Scenery\olddata\0902\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0903">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0903\</AssetDir>
+			<OutputDir>Scenery\olddata\0903\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0904">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0904\</AssetDir>
+			<OutputDir>Scenery\olddata\0904\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="0905">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\0905\</AssetDir>
+			<OutputDir>Scenery\olddata\0905\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1000">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1000\</AssetDir>
+			<OutputDir>Scenery\olddata\1000\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1001">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1001\</AssetDir>
+			<OutputDir>Scenery\olddata\1001\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1002">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1002\</AssetDir>
+			<OutputDir>Scenery\olddata\1002\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1003">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1003\</AssetDir>
+			<OutputDir>Scenery\olddata\1003\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1004">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1004\</AssetDir>
+			<OutputDir>Scenery\olddata\1004\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1005">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1005\</AssetDir>
+			<OutputDir>Scenery\olddata\1005\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1100">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1100\</AssetDir>
+			<OutputDir>Scenery\olddata\1100\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1101">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1101\</AssetDir>
+			<OutputDir>Scenery\olddata\1101\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1102">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1102\</AssetDir>
+			<OutputDir>Scenery\olddata\1102\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1103">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1103\</AssetDir>
+			<OutputDir>Scenery\olddata\1103\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1104">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1104\</AssetDir>
+			<OutputDir>Scenery\olddata\1104\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1105">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1105\</AssetDir>
+			<OutputDir>Scenery\olddata\1105\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1106">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1106\</AssetDir>
+			<OutputDir>Scenery\olddata\1106\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="1107">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\1107\</AssetDir>
+			<OutputDir>Scenery\olddata\1107\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\sky-olddata\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\sky-olddata\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -1,0 +1,22 @@
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>olddata</Title>
+		<Manufacturer />
+		<Creator>sky</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\sky-olddata\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\sky-olddata\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

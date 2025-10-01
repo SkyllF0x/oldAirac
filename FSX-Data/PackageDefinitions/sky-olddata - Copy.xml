@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>olddata</Title>
+		<Manufacturer/>
+		<Creator>sky</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="00">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\00\</AssetDir>
+			<OutputDir>Scenery\olddata\00\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="01">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\olddata\01\</AssetDir>
+			<OutputDir>Scenery\olddata\01\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\sky-olddata\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\sky-olddata\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
